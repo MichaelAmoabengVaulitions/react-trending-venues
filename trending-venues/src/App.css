@@ -1,0 +1,12 @@
+.App {
+	max-width: 120rem;
+	margin: 8rem auto;
+	min-height: 50rem;
+}
+@media only screen and (max-width: 75em) {
+	.App {
+		margin: 0;
+		max-width: 100%;
+		width: 100%;
+	}
+}
